@@ -137,5 +137,6 @@ class BSTApp
 		Node sch_node = app.search(sch);
 		if(sch_node != null) System.out.print("Value Found");
 		else System.out.print("Value Not Found");
+		
 	}
 }
